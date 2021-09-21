@@ -19,9 +19,9 @@ bio: Research Fellow working at the intersection of Causality and Reinforcement 
 # Interests to show in About widget
 interests:
 - Reinforcement Learning
-- Causality
-- Learning with explanations
-- Normality for causal attribution
+- (Actual) Causality
+- Learning by Explaining
+- Normality for Causal Attribution
 
 # Education to show in About widget
 education:

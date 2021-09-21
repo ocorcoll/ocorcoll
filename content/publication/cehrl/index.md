@@ -6,7 +6,7 @@ title: "Disentangling causal effects for hierarchical reinforcement learning"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- R. Vicente
+- Raul Vicente
 
 # Author notes (optional)
 author_notes:
@@ -23,7 +23,7 @@ publishDate: "2020-10-03T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: Submitted
@@ -48,7 +48,7 @@ links:
 url_pdf: 'publication/cehrl/paper.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: 'publication/cehrl/poster.png'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Poster'
+  caption: ''
   focal_point: ""
   preview_only: false
 
