@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: ocorcoll@gmail.com
+# email: ocorcoll@gmail.com
 # phone: 888 888 88 88
 # address:
 #   street: 450 Serra Mall
@@ -37,11 +37,11 @@ email: ocorcoll@gmail.com
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: ocorcoll
-    link: 'https://twitter.com/ocorcoll'
+# contact_links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: ocorcoll
+#     link: 'https://twitter.com/ocorcoll'
 
 # Site header
 main_menu:
