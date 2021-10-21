@@ -11,7 +11,6 @@ role: PhD Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Tartu
-  # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Research Fellow working at the intersection of Causality and Reinforcement Learning
@@ -20,8 +19,8 @@ bio: Research Fellow working at the intersection of Causality and Reinforcement 
 interests:
 - Reinforcement Learning
 - (Actual) Causality
+- Hierarchical RL
 - Learning by Explaining
-- Normality for Causal Attribution
 
 # Education to show in About widget
 education:
