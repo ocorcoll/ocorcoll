@@ -67,3 +67,5 @@ email: "ocorcoll@gmail.com"
 highlight_name: true
 ---
 I am a PhD candidate and Junior Research Fellow at University of Tartu studying how reinforcement learning agents can understand the world in terms of cause and effect. In particular, I study how understanding the consequences of an agent’s action can benefit model-based RL.
+
+Previously @ Amazon Alexa
