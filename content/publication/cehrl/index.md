@@ -25,8 +25,8 @@ publishDate: "2020-10-03T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
-publication: In *Causal Learning and Reasoning*
-publication_short: In *CLeaR*
+publication: *Causal Learning and Reasoning*
+publication_short: *Causal Learning and Reasoning (CLeaR)*
 
 
 abstract: Exploration and credit assignment under sparse rewards are still challenging problems. We argue that these challenges arise in part due to the intrinsic rigidity of operating at the level of actions. Actions can precisely define how to perform an activity but are ill-suited to describe what activity to perform. Instead, causal effects are inherently composable and temporally abstract, making them ideal for descriptive tasks. By leveraging a hierarchy of causal effects, this study aims to expedite the learning of task-specific behavior and aid exploration. Borrowing counterfactual and normality measures from causal literature, we disentangle controllable effects from effects caused by other dynamics of the environment. We propose CEHRL, a hierarchical method that models the distribution of controllable effects using a Variational Autoencoder. This distribution is used by a high-level policy to 1) explore the environment via random effect exploration so that novel effects are continuously discovered and learned, and to 2) learn task-specific behavior by prioritizing the effects that maximize a given reward function. In comparison to exploring with random actions, experimental results show that random effect exploration is a more efficient mechanism and that by assigning credit to few effects rather than many actions, CEHRL learns tasks more rapidly.

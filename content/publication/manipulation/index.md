@@ -29,8 +29,8 @@ publishDate: "2019-09-15T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on Cognitive Computational Neuroscience*
-publication_short: In *Cognitive Computational Neuroscience*
+publication: *Conference on Cognitive Computational Neuroscience (CCN)*
+publication_short: *Cognitive Computational Neuroscience (CCN)*
 
 abstract: The ability to change others’ attention for our own benefit is referred to as attention manipulation and is known to be an important cognitive ability for coordination in cooperative tasks. In this work, we formulate attention manipulation in the context of reinforcement learning (RL) agents and argue that if the environment is complex enough agents will learn to use this skill. In particular, we first outline some of the characteristics in the environment that make it complex enough for this behavior to become relevant. Then, we test RL agents in two environments with such characteristics. Finally, we estimate a measure of attention manipulation using information theory functionals proposed to capture causal influence. Our results indicate that attention manipulation can be used by relatively simple RL agents to achieve better coordination in cooperative tasks.
 
