@@ -25,7 +25,7 @@ publishDate: "2020-10-03T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
-publication: *Causal Learning and Reasoning*
+publication: *Conference on Causal Learning and Reasoning (CLeaR)*
 publication_short: *Causal Learning and Reasoning (CLeaR)*
 
 
