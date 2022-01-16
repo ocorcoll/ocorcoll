@@ -28,7 +28,7 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Forthcoming
+publication: Under review
 # publication_short:
 
 # abstract:
