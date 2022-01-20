@@ -6,8 +6,8 @@ title: "Quantifying reinforcement-learning agent's autonomy, reliance on memory 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Anti Ingel
-- admin
 - Abdulah Makkeh
+- admin
 - Raul Vicente
 
 # Author notes (optional)
