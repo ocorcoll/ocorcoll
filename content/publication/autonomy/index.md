@@ -31,11 +31,6 @@ publication_types: ["3"]
 publication: Under review
 # publication_short:
 
-# abstract:
-
-
-# Summary. An optional shortened abstract.
-summary: Forthcoming
 
 tags: []
 
