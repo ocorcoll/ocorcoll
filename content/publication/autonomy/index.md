@@ -38,11 +38,11 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Arxiv
-#   url: https://arxiv.org/abs/2106.00266
+links:
+- name: Entropy
+  url: https://www.mdpi.com/1099-4300/24/3/401
 
-url_pdf: ''
+url_pdf: 'https://www.mdpi.com/1099-4300/24/3/401/pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
