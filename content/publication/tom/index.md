@@ -11,7 +11,7 @@ authors:
 - Raul Vicente
 
 date: "2022-03-30T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2203.16540"
+doi: "10.48550/arXiv.2203.16540"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-30T00:00:00Z"
