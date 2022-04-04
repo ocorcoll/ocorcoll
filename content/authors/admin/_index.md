@@ -58,7 +58,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/ocorcoll_cv_2021.pdf
+  link: uploads/ocorcoll_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ocorcoll@gmail.com"
