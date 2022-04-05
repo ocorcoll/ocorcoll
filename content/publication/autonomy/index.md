@@ -28,7 +28,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Entropy. Special issue Towards a Quantitative Understanding of Agency.
+publication: Entropy. Special issue Towards a Quantitative Understanding of Agency
 # publication_short:
 
 
