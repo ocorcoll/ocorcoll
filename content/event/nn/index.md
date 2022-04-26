@@ -30,7 +30,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: "https://drive.google.com/file/d/1G7F8OavW-SGoEv08Drgn0Fjo--8iaaaW/view?usp=sharing"
-url_video: "https://drive.google.com/file/d/1J63_OIEkfJs3SmcKipzVQiAUlQ4vjZPf/view?usp=sharing"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
