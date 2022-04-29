@@ -28,7 +28,7 @@ featured: true
 links:
 url_code: ""
 url_pdf: ""
-url_slides: "https://docs.google.com/presentation/d/1DIRdRAsjXFS1b3qn1M9u7sdpp3qbrhquyLPiw9Yr43w/edit?usp=sharing"
+url_slides: "https://drive.google.com/file/d/1g7hAs-0zpTVLkaU8tm38mJn2HD3m1Bt0/view?usp=sharing"
 url_video: ""
 
 # Markdown Slides (optional).
