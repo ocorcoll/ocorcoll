@@ -8,6 +8,10 @@ authors:
 - admin
 - Raul Vicente
 
+# Author notes (optional)
+author_notes:
+- "Corresponding"
+
 date: ""
 doi: ""
 
