@@ -1,10 +1,10 @@
 ---
-title: (LTAT.02.001) Neural Networks Course
+title: (LTAT.02.001) Neural Networks - Lecture on Attention
 
 event: Course
 event_url: https://courses.cs.ut.ee/2021/nn/spring
 
-summary: Lecture on Attention
+summary: Lecture on Attention and Transformers for the Neural Networks course.
 # abstract: "I organize a CNS seminar."
 
 # Talk start and end times.
