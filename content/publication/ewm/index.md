@@ -18,13 +18,13 @@ publishDate: "2022-03-30T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In progress
-publication_short: WIP
+publication: Causal Representation Learning Workshop @ Uncertainty in Artificial Intelligence (UAI)
+publication_short: Causal Representation Learning (UAI)
 
-abstract: 
+abstract: Explanations are considered to be a byproduct of our causal understanding of the world. If we would know the actual causal relations, we could provide adequate explanations. In contrast, this work places explanations at the forefront of learning. We argue that explanations provide a strong signal to learn causal relations. To this end, we propose Explanatory World Models (EWM), a type of world model where explanations drive learning. We provide an implementation of EWM based on an attention mechanism called look ahead attention, trained in an unsupervised fashion. We showcase this approach in the credit assignment problem for reinforcement learning and show that explanations provide a better solution to this problem than current heuristics.
 
 
 # Summary. An optional shortened abstract.
@@ -36,11 +36,11 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Arxiv
-#   url: https://arxiv.org/abs/
+links:
+- name: CRL
+  url: https://openreview.net/pdf?id=0A3gdgzV1Fe
 
-url_pdf: ''
+url_pdf: 'publication/ewm/paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

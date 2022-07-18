@@ -24,11 +24,11 @@ publishDate: "2021-06-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Unsupervised RL Workshop @ International Conference on Machine Learning (ICML)
-publication_short: URL @ International Conference on Machine Learning (ICML)
+publication: Unsupervised RL Workshop @ International Conference on Machine Learning (ICML) and Transactions of Machine Learning Research (TMLR)
+publication_short: URL @ International Conference on Machine Learning (ICML) and TMLR
 
 abstract: Modeling controllable aspects of the environment enable better prioritization of interventions and has become a popular exploration strategy in reinforcement learning methods. Despite repeatedly achieving State-of-the-Art results, this approach has only been studied as a proxy to a reward-based task and has not yet been evaluated on its own. We show that solutions relying on action prediction fail to model important events. Humans, on the other hand, assign blame to their actions to decide what they controlled. Here we propose Controlled Effect Network (CEN), an unsupervised method based on counterfactual measures of blame. CEN is evaluated in a wide range of environments showing that it can identify controlled effects better than popular models based on action prediction.
 
