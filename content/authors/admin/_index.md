@@ -13,12 +13,13 @@ organizations:
 - name: University of Tartu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Fellow working at the intersection of Causality and Reinforcement Learning
+bio: Research Scientist at Spotify working on Causal Learning
 
 # Interests to show in About widget
 interests:
 - Reinforcement Learning
-- (Actual) Causality
+- Causality
+- Actual Causality
 - Hierarchical RL
 - Learning by Explaining
 
@@ -66,7 +67,7 @@ email: "ocorcoll@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. candidate and Junior Research Fellow at the University of Tartu studying how reinforcement learning agents can understand the world in terms of cause and effect. I firmly believe that there is a significant leap towards understanding intelligence at the intersection of reinforcement learning and causality. Building agents that see the world from a causal lens can enable principled drug discovery, informed interventions on gene regulatory networks, and better decision-making for clinicians. In particular, I study how RL agents can discover, learn and exploit causal relations present in the world in an unsupervised manner.
+I am a Research Scientist at Spotify working on Causal ML. My Ph.D. from University of Tartu focused on Causal Reinforcement Learning. I studied how reinforcement learning agents can understand the world in terms of cause and effect. Building agents that see the world from a causal lens can enable principled drug discovery, informed interventions on gene regulatory networks, and better decision-making in general.
 
 
 Previously @ Amazon Alexa
