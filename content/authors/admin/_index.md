@@ -6,7 +6,7 @@ title: Oriol Corcoll
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Research Scientist at Spotify
 
 # Organizations/Affiliations to show in About widget
 organizations:
